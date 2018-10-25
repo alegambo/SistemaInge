@@ -1,4 +1,4 @@
-Sistema web realizado para los cursos de Ingenieria 1,2,3 de la Universidad Nacional.
+Sistema web SIGEDOD realizado para los cursos de Ingenieria 1,2,3 de la Universidad Nacional.
 Hecho con los lenguajes PHP, Javascript, HTML, CSS, MYSQL
 Servidor utilizado Apache.
 Se trata de darle seguimiento a los proyectos de Investigación académica que realizan los profesores.

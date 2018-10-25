@@ -20,3 +20,4 @@ n.Sección de Ayuda.
 o. Agregar, Ver, Modificar y Eliminar archivos PDF.
 p.Agregar, Ver y Reemplazar imágenes en la galería.
 q.Búsqueda por Contenido en los proyectos.
+
